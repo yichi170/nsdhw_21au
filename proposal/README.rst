@@ -140,8 +140,8 @@ Time Table
     - TBD
   * - 4
     - 08:30 - 08:55
-    - TBD
-    - TBD
+    - yichi170
+    - RelatedWorkGraph
   * - 5
     - 09:00 - 09:25
     - TBD
